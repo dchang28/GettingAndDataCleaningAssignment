@@ -1,12 +1,12 @@
-**Code Book**
+#Code Book#
 
-***Data Source***
+##Data Source##
 Source for original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Original description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-***Data Set Background***
+##Data Set Background##
 Subjects were a group of 30 volunteers within an age bracket of 19-48 years.
  
 Each person performed six activities:
@@ -23,7 +23,7 @@ while wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedde
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals). 
 
 
-***Variables***
+##Variables##
 The following variables were measured in the original data source. An expanded description of the variables used for this analysis can be found at the end of the document.
 
 These signals were used to estimate variables of the feature vector for each pattern:  
@@ -48,7 +48,7 @@ fBodyGyroMag
 fBodyGyroJerkMag
 
 
-***Expanded Description of Tidy Data File***
+##Expanded Description of Tidy Data File##
 
 Description of the variables used for analysis. For this analysis, only the mean and standard deviation measurements were used. In addition, the data files from the "Inertial Signals" folders were not used in analysis.
 
@@ -124,7 +124,7 @@ frequencyBodyGyroscopeJerkMagnitude-mean()
 frequencyBodyGyroscopeJerkMagnitude-std()
 
 
-***Citation***
+##Citation##
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
 
 Hood, David. "Getting and Cleaning the Assignment." Thoughtfulbloke Aka David Hood. N.p., 26 Jan. 2016. Web. 16 Sept. 2016.
