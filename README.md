@@ -1,9 +1,9 @@
 # Getting and Data Cleaning - Coursera Project Assignment#
 This was a course project for the Coursera Getting and Data Cleaning class. The R script will take data from the [data source](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and output a tidy data file meeting the assignment criteria.
 
-##Assignment##
+##Assignment Details##
 
-You should create one R script called run_analysis.R that does the following:
+The assignment was to create an R script that does the following:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
