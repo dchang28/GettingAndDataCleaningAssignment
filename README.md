@@ -15,4 +15,4 @@ The assignment was to create an R script that does the following:
 
 The data set used for this analysis can be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). The zipped filed should be saved as "data' and unzipped into the working directory of the R script. Files within the unzipped data set do not need to be moved as long as the original zipped file was properly named.
 
-Once files are downloaded, run the run_analysis.R script, which will generate the output tidy_data.txt
+Once files are downloaded, run the script run_analysis.R , which will generate the output tidy_data.txt
